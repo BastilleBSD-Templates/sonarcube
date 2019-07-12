@@ -1,6 +1,8 @@
 # sonarcube
 Bastille Template for a Sonarqube Jail
 
+ STATUS: Testing
+
 Create the DB for Sonarqube
 
 SONARQUBE_USER="sonarqube"
